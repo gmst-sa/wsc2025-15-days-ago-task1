@@ -1,0 +1,48 @@
+2025/06/21
+- 1과제 과제지에서 /red, /green으로 안내된 helm chart를 /app으로 수정하였습니다.
+
+2025/06/24
+- 2과제 과제지에서 VPC Lattice 모듈의 region을 ap-northeast-1으로 변경하였습니다.
+- 2과제 채점지에서 각 모듈의 default region 설정을 위한 0번 문항을 추가하였습니다.
+- 2과제 과제지에서 CI/CD 모듈의 region을 eu-central-1으로 변경하였습니다.
+- 2과제 채점지에서 VPC Lattice 모듈의 region을 ap-northeast-1으로 변경하였습니다.
+- 2과제 채점지에서 CI/CD 모듈의 region을 eu-central-1으로 변경하였습니다.
+
+2025/06/25
+- 2과제 채점지에서 Logging 모듈의 8-3 항목의 출력 오류를 변경하였습니다.
+
+2025/06/26
+- 2과제 과제지에서 VPC Lattice 모듈의 AZ를 a, c 로 변경하였습니다.
+- 2과제 채점지에서 CDN 모듈의 default region 설정의 region을 ap-northeast-2로 변경하였습니다.
+- 2과제 채점지에서 VPC Lattice 모듈의 AZ를 a, c 로 변경하였습니다.
+
+2025/06/27
+- 1과제 과제지에서 addon nodegroup의 인스턴스 타입을 t3.medium으로 변경하였습니다.
+- 1과제 채점 스크립트에서 2-1-A 스크립트의 --output table을 --output json으로 변경하였습니다.
+- 1과제 채점지에서 5-2-A가 유사한 채점을 진행하기에 9-7-A의 채점항목을 제거하였습니다.
+   또한 9-7-A 항목의 제거로 5-2-A의 배점이 0.5에서 1로 증가했습니다.
+- 1과제 채점지에서 10-1-A 채점항목의 예상 출력이 로드밸런서가 3개 출력되도록 변경하였습니다.
+- 1과제 과제지에서 OpenSearch의 비밀번호를 Skill53##으로 변경하였습니다.
+- 1과제 채점지에서 5-2-A 채점항목의 스크립트가 채점 스크립트와 다른 점을 발견하여 변경하였습니다.
+
+2025/07/15
+- 1과제 배포파일에 day1_table_v1.sql을 추가하였습니다.
+- 1과제 채점지에서 스크립트에만 존재했던 환경변수 설정을 0번 문항에 추가하였습니다.
+- 1과제 과제지에서 Aurora의 Backtracking 구성에 대한 조건을 추가하였습니다.
+
+2025/07/16
+- 1과제 채점지에서 6-1-A 채점항목에 추가적인 설명을 추가하였습니다.
+- 2과제 과제지,채점지,스크립트에서 CDN 모듈의 Bastion IAM Role Name Tag를 mrap-bastion-role로 변경하였습니다.
+
+2025/07/17
+- 2과제 채점지에서 각 모듈마다 aws configure set region 설정을 추가하였습니다.
+- 2과제 과제지,채점지,스크립트에서 VPC Lattice 모듈의 region을 ap-southeast-1으로 변경하였습니다.
+- 2과제 VPC Lattice 모듈의 3-3-A 항목 일치항목을 작성하였습니다.
+- 2과제 VPC Lattice 모듈의 4-1-A 예상 출력의 순서를 순서 무관으로 변경하였습니다.
+- 2과제 과제지,채점지,스크립트에서 CDN 모듈의 Bastion Name Tag를 mrap-bastion로 변경하였습니다.
+- 2과제 과제지,채점지,스크립트에서 CDN 모듈의 Bastion Security Group Name Tag를 mrap-bastion-sg로 변경하였습니다.
+
+2025/07/18
+- 2과제 과제지에서 CDN 모듈의 Lambda@Edge Function Name을 작성하였습니다.
+
+
